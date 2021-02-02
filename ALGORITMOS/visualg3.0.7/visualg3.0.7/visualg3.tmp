@@ -1,9 +1,0 @@
-algoritmo "semnome"
-var
-msg: caracter
-
-inicio
-msg <- "Ola Mundo!"
-Escreval ("Mensgem ", msg)
-
-fimalgoritmo
