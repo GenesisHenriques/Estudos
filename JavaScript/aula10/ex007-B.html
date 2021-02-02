@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto pessoal</title>
+    <style>
+        body{
+            font: normal 15pt Arial;
+            background-color: rgb(76, 0, 139);
+        }
+        div#a{
+            padding-top: 20px;
+            font: normal 15pt Arial;
+            color: rgb(47, 188, 253);
+        }
+    
+    </style>
+</head>
+<body>
+    <h1>Pesquisa de opnião</h1>
+    <h2>imagens</h2>
+
+        <picture>
+            <source media="(max-width: 750px)" srcset="imagens/foto-p.png" type="image/png">
+            <source media="(max-width: 1050px)" srcset="imagens/foto-m.png" type="image/png"> 
+            <img src="imagens/foto-g.png" alt="imagem flexivel">
+        </picture>
+        <br>
+        <p>De 1 a 10, qual sua nota para essa imagem?</p>
+        <input type="number" name="nt1" id="nt1"> 
+        <input type="button" value="enviar" onclick="enviar()"> 
+        <div id = a>Nota</div>
+
+
+
+    <script>
+        function enviar(){
+            var nota = document.getElementById('nt1')
+            var nt1 = Number(nota.value)
+            a.innerText = `Sua nota sobre essa foto foi ${nt1}`
+
+
+        }
+    </script>
+</body>
+</html>
