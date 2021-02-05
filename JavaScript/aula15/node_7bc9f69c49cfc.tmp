@@ -1,0 +1,7 @@
+let num = []
+
+for (var i = 0; i , 3; i++)
+{
+    console.log(`Digite o ${i+1}º valor`)
+    num.push(Number.value) 
+}

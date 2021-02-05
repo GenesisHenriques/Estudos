@@ -1,17 +1,37 @@
 function contar(){
-    var txtinicio = document.getElementById('inicio')
-    var inicio = Number(txtinicio.value)
-    var txtfim = document.getElementById('fim')
-    var fim = Number(txtfim.value)
-    var txtpasso = document.getElementById('passo')
-    var passo = Number(txtpasso.value)
-    var res = document.querySelector('div#res')
+    let txtinicio = document.getElementById('inicio')
+    let inicio = Number(txtinicio.value)
+    let txtfim = document.getElementById('fim')
+    let fim = Number(txtfim.value)
+    let txtpasso = document.getElementById('passo')
+    let passo = Number(txtpasso.value)
+    let res = document.querySelector('div#res')
     res.innerHTML =""
 
-    for (var i = inicio; inicio <= fim; inicio+=passo)
-    {
-        res.innerHTML += `👉 ${inicio}  `
+    if (passo == 0){
+        window.alert('Passo inválido, considerando passo = 1')
+        passo = 1
     }
-    res.innerHTML += `❗`
+
+    if (inicio < fim){
+        for (var i = inicio; inicio <= fim; inicio+=passo)
+        {
+            if (inicio == 0 || fim == 0 ) {
+                res.innerHTML = 'Impossível contar!...'
+                break
+            }
+            res.innerHTML += `\u{1F449} ${inicio}  `
+        }
+    } else {
+        for (var i = inicio; inicio >= fim; inicio-=passo)
+        {
+            if (inicio == 0 || fim == 0 ) {
+                res.innerHTML = 'Impossível contar!...'
+                break
+            }
+            res.innerHTML += `👉 ${inicio}  `
+        }
+    }
+    res.innerHTML += `\u{1F3C1}`
 }
 

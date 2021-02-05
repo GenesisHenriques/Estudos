@@ -1,8 +1,22 @@
-function tabuada(){
-    let num = document.getElementById('txtn')
-    let tab = document.getElementById('seltab')
+function enviar(){
+    let num = document.querySelector('input#txtnum')
+    let tab = document.getElementById('numD')
 
     if (num.value.length == 0){
+        window.alert('Por favor, digite um numero!')
+    } else {
+            let item = document.createElement(`option`)
+            item.text = `${num}`
+            item.value = `tab${num}`
+            tab.appendChild(item)
+         }   
+
+    }
+}
+
+
+/*
+if (num.value.length == 0){
         window.alert('Por favor, digite um numero!')
     } else{
         let n = Number(num.value)
@@ -16,5 +30,4 @@ function tabuada(){
             c++
         }
     }
-
-}
+*/
