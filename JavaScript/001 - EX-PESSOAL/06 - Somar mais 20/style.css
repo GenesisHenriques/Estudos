@@ -1,0 +1,14 @@
+body{
+    background: blue;
+    text-align: center;
+    color: white;
+}
+section{
+    width: 400px;
+    padding: 10px;
+    border-radius: 10px;
+    background: white;
+    text-align: center;
+    margin: auto;
+    color: blue;
+}
