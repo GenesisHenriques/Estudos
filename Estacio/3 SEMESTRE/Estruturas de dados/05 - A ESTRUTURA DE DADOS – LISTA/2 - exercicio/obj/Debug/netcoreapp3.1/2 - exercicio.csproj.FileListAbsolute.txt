@@ -1,0 +1,13 @@
+C:\Users\dell\Documents\Estacio\3 SEMESTRE\Estruturas de dados\05 - A ESTRUTURA DE DADOS – LISTA\2 - exercicio\obj\Debug\netcoreapp3.1\2 - exercicio.csprojAssemblyReference.cache
+C:\Users\dell\Documents\Estacio\3 SEMESTRE\Estruturas de dados\05 - A ESTRUTURA DE DADOS – LISTA\2 - exercicio\obj\Debug\netcoreapp3.1\2 - exercicio.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\Estacio\3 SEMESTRE\Estruturas de dados\05 - A ESTRUTURA DE DADOS – LISTA\2 - exercicio\obj\Debug\netcoreapp3.1\2 - exercicio.AssemblyInfo.cs
+C:\Users\dell\Documents\Estacio\3 SEMESTRE\Estruturas de dados\05 - A ESTRUTURA DE DADOS – LISTA\2 - exercicio\obj\Debug\netcoreapp3.1\2 - exercicio.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\Estacio\3 SEMESTRE\Estruturas de dados\05 - A ESTRUTURA DE DADOS – LISTA\2 - exercicio\bin\Debug\netcoreapp3.1\2 - exercicio.exe
+C:\Users\dell\Documents\Estacio\3 SEMESTRE\Estruturas de dados\05 - A ESTRUTURA DE DADOS – LISTA\2 - exercicio\bin\Debug\netcoreapp3.1\2 - exercicio.deps.json
+C:\Users\dell\Documents\Estacio\3 SEMESTRE\Estruturas de dados\05 - A ESTRUTURA DE DADOS – LISTA\2 - exercicio\bin\Debug\netcoreapp3.1\2 - exercicio.runtimeconfig.json
+C:\Users\dell\Documents\Estacio\3 SEMESTRE\Estruturas de dados\05 - A ESTRUTURA DE DADOS – LISTA\2 - exercicio\bin\Debug\netcoreapp3.1\2 - exercicio.runtimeconfig.dev.json
+C:\Users\dell\Documents\Estacio\3 SEMESTRE\Estruturas de dados\05 - A ESTRUTURA DE DADOS – LISTA\2 - exercicio\bin\Debug\netcoreapp3.1\2 - exercicio.dll
+C:\Users\dell\Documents\Estacio\3 SEMESTRE\Estruturas de dados\05 - A ESTRUTURA DE DADOS – LISTA\2 - exercicio\bin\Debug\netcoreapp3.1\2 - exercicio.pdb
+C:\Users\dell\Documents\Estacio\3 SEMESTRE\Estruturas de dados\05 - A ESTRUTURA DE DADOS – LISTA\2 - exercicio\obj\Debug\netcoreapp3.1\2 - exercicio.dll
+C:\Users\dell\Documents\Estacio\3 SEMESTRE\Estruturas de dados\05 - A ESTRUTURA DE DADOS – LISTA\2 - exercicio\obj\Debug\netcoreapp3.1\2 - exercicio.pdb
+C:\Users\dell\Documents\Estacio\3 SEMESTRE\Estruturas de dados\05 - A ESTRUTURA DE DADOS – LISTA\2 - exercicio\obj\Debug\netcoreapp3.1\2 - exercicio.genruntimeconfig.cache

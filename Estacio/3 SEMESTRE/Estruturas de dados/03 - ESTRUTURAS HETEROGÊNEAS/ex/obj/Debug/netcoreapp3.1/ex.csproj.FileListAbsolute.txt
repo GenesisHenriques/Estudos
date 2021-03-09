@@ -1,0 +1,13 @@
+C:\Users\dell\Documents\Estacio\3 SEMESTRE\Estruturas de dados\03 - ESTRUTURAS HETEROGÊNEAS\ex\obj\Debug\netcoreapp3.1\ex.csprojAssemblyReference.cache
+C:\Users\dell\Documents\Estacio\3 SEMESTRE\Estruturas de dados\03 - ESTRUTURAS HETEROGÊNEAS\ex\obj\Debug\netcoreapp3.1\ex.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\Estacio\3 SEMESTRE\Estruturas de dados\03 - ESTRUTURAS HETEROGÊNEAS\ex\obj\Debug\netcoreapp3.1\ex.AssemblyInfo.cs
+C:\Users\dell\Documents\Estacio\3 SEMESTRE\Estruturas de dados\03 - ESTRUTURAS HETEROGÊNEAS\ex\obj\Debug\netcoreapp3.1\ex.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\Estacio\3 SEMESTRE\Estruturas de dados\03 - ESTRUTURAS HETEROGÊNEAS\ex\bin\Debug\netcoreapp3.1\ex.exe
+C:\Users\dell\Documents\Estacio\3 SEMESTRE\Estruturas de dados\03 - ESTRUTURAS HETEROGÊNEAS\ex\bin\Debug\netcoreapp3.1\ex.deps.json
+C:\Users\dell\Documents\Estacio\3 SEMESTRE\Estruturas de dados\03 - ESTRUTURAS HETEROGÊNEAS\ex\bin\Debug\netcoreapp3.1\ex.runtimeconfig.json
+C:\Users\dell\Documents\Estacio\3 SEMESTRE\Estruturas de dados\03 - ESTRUTURAS HETEROGÊNEAS\ex\bin\Debug\netcoreapp3.1\ex.runtimeconfig.dev.json
+C:\Users\dell\Documents\Estacio\3 SEMESTRE\Estruturas de dados\03 - ESTRUTURAS HETEROGÊNEAS\ex\bin\Debug\netcoreapp3.1\ex.dll
+C:\Users\dell\Documents\Estacio\3 SEMESTRE\Estruturas de dados\03 - ESTRUTURAS HETEROGÊNEAS\ex\bin\Debug\netcoreapp3.1\ex.pdb
+C:\Users\dell\Documents\Estacio\3 SEMESTRE\Estruturas de dados\03 - ESTRUTURAS HETEROGÊNEAS\ex\obj\Debug\netcoreapp3.1\ex.dll
+C:\Users\dell\Documents\Estacio\3 SEMESTRE\Estruturas de dados\03 - ESTRUTURAS HETEROGÊNEAS\ex\obj\Debug\netcoreapp3.1\ex.pdb
+C:\Users\dell\Documents\Estacio\3 SEMESTRE\Estruturas de dados\03 - ESTRUTURAS HETEROGÊNEAS\ex\obj\Debug\netcoreapp3.1\ex.genruntimeconfig.cache
