@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calcular Expressões</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Calcular Expressão D = ( R+S )/4</h1>
+    <section>
+        <div>
+            <p>R = (A+B)*2 </p>
+            <p> S = (B+C)*A</p> 
+        </div>
+    </section id = 'dois'>
+    <br>
+    <section>
+        <div>
+            <p>Digite o 1º numero: <input type="number" name="A" id="A"></p>
+            <p>Digite o 2º numero: <input type="number" name="B" id="B"></p>
+            <p>Digite o 3º numero: <input type="number" name="C" id="C"></p>
+            <p><input type="button" value="Enviar" onclick="enviar()"></p>
+        </div>
+    </section>
+    <br>
+    <section>
+        <div id = 'res'> Resposta...</div>
+    </section>
+    
+    <script src="script.js"></script>
+</body>
+</html>

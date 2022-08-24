@@ -1,0 +1,13 @@
+C:\Users\dell\Documents\ESTUDOS\CursoEmVideo\ALGORITMOS\AULAS\AULA 6 - EXRCICIOS DE ALGORITMO\003\bin\Debug\netcoreapp3.1\003.exe
+C:\Users\dell\Documents\ESTUDOS\CursoEmVideo\ALGORITMOS\AULAS\AULA 6 - EXRCICIOS DE ALGORITMO\003\bin\Debug\netcoreapp3.1\003.deps.json
+C:\Users\dell\Documents\ESTUDOS\CursoEmVideo\ALGORITMOS\AULAS\AULA 6 - EXRCICIOS DE ALGORITMO\003\bin\Debug\netcoreapp3.1\003.runtimeconfig.json
+C:\Users\dell\Documents\ESTUDOS\CursoEmVideo\ALGORITMOS\AULAS\AULA 6 - EXRCICIOS DE ALGORITMO\003\bin\Debug\netcoreapp3.1\003.runtimeconfig.dev.json
+C:\Users\dell\Documents\ESTUDOS\CursoEmVideo\ALGORITMOS\AULAS\AULA 6 - EXRCICIOS DE ALGORITMO\003\bin\Debug\netcoreapp3.1\003.dll
+C:\Users\dell\Documents\ESTUDOS\CursoEmVideo\ALGORITMOS\AULAS\AULA 6 - EXRCICIOS DE ALGORITMO\003\bin\Debug\netcoreapp3.1\003.pdb
+C:\Users\dell\Documents\ESTUDOS\CursoEmVideo\ALGORITMOS\AULAS\AULA 6 - EXRCICIOS DE ALGORITMO\003\obj\Debug\netcoreapp3.1\003.csprojAssemblyReference.cache
+C:\Users\dell\Documents\ESTUDOS\CursoEmVideo\ALGORITMOS\AULAS\AULA 6 - EXRCICIOS DE ALGORITMO\003\obj\Debug\netcoreapp3.1\003.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\ESTUDOS\CursoEmVideo\ALGORITMOS\AULAS\AULA 6 - EXRCICIOS DE ALGORITMO\003\obj\Debug\netcoreapp3.1\003.AssemblyInfo.cs
+C:\Users\dell\Documents\ESTUDOS\CursoEmVideo\ALGORITMOS\AULAS\AULA 6 - EXRCICIOS DE ALGORITMO\003\obj\Debug\netcoreapp3.1\003.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\ESTUDOS\CursoEmVideo\ALGORITMOS\AULAS\AULA 6 - EXRCICIOS DE ALGORITMO\003\obj\Debug\netcoreapp3.1\003.dll
+C:\Users\dell\Documents\ESTUDOS\CursoEmVideo\ALGORITMOS\AULAS\AULA 6 - EXRCICIOS DE ALGORITMO\003\obj\Debug\netcoreapp3.1\003.pdb
+C:\Users\dell\Documents\ESTUDOS\CursoEmVideo\ALGORITMOS\AULAS\AULA 6 - EXRCICIOS DE ALGORITMO\003\obj\Debug\netcoreapp3.1\003.genruntimeconfig.cache

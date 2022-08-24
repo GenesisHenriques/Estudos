@@ -1,0 +1,17 @@
+body{
+    background: blue;
+    color: white;
+    text-align: center;
+} section{
+    background: white;
+    color: black;
+    width: 400px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: auto;
+    text-align: left;
+} select{
+    width: 400px;
+} input#dois{
+    margin: 0 80px;
+}

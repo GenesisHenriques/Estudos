@@ -1,0 +1,8 @@
+1 - dificuldades
+ 1.1 - o bitbucket
+ 1.2 - entendimento do desafio
+ 1.3
+
+2 - funcinalidades
+ 2.1 - rota de excluir cidades pesquisadas
+ 

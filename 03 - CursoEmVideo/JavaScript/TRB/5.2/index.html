@@ -1,0 +1,68 @@
+<div id="paiDoPai">
+    <div id="pai">
+      <div id="primeiroFilho"></div>
+      <div id="elementoOndeVoceEsta">
+        <div id="primeiroFilhoDoFilho"></div>
+        <div id="segundoEUltimoFilhoDoFilho"></div>
+      </div>
+      Atenção!
+      <div id="terceiroFilho"></div>
+      <div id="quartoEUltimoFilho"></div>
+    </div> 
+    <script>
+        document.querySelectorAll('#elementoOndeVoceEsta')[0].parentNode.style.backgroundColor = 'red';
+        document.querySelectorAll('#primeiroFilhoDoFilho')[0].innerText = 'Genesis';
+        document.querySelectorAll('#pai')[0].firstElementChild.innerText = 'AAAAA';
+        document.querySelectorAll('#elementoOndeVoceEsta')[0].firstElementChild.style.backgroundColor = 'blue';
+        document.querySelectorAll('#elementoOndeVoceEsta')[0].nextSibling;
+        document.querySelectorAll('#elementoOndeVoceEsta')[0].nextElementSibling;
+        document.querySelectorAll('#pai')[0].children[2];
+        // consigo usar o query dentro do resultado de outro query
+        document.querySelectorAll('#pai')[0].querySelectorAll('#terceiroFilho')[0];
+        //
+
+        // 1 - Crie um irmão para elementoOndeVoceEsta .
+        //Primeiro busca o local que vc quer add algo
+        let local = document.querySelectorAll('#pai')[0];
+        //Cria uma variavel com o valor que vc quer add
+        let valor = 'agora foi';
+        //Cria a nova TAG que vc quer add
+        let novaDiv = document.createElement('div');
+        //ADD o valor na nova tag
+        novaDiv.innerText = valor;
+        //Add o item no local que vc quer
+        local.appendChild(novaDiv);
+
+        // 2 - Crie um filho para elementoOndeVoceEsta .
+        let local2 = document.querySelectorAll('#elementoOndeVoceEsta')[0];
+        let valor2 = 'Agora foi dois';
+        let novaUl = document.createElement('ul');
+        novaUl.innerText = valor2;
+        local2.appendChild(novaUl);
+
+        //3 - Crie um filho para primeiroFilhoDoFilho .
+        let local3 = document.querySelectorAll('#primeiroFilhoDoFilho ')[0];
+        let valor3 = 'Agora foi tres';
+        let novaUl2 = document.createElement('ul');
+        novaUl2.innerText = valor3;
+        novaUl2.className = 'vemBandida';
+        local3.appendChild(novaUl2);
+
+        //4 - A partir desse filho criado, acesse terceiroFilho
+        document.getElementsByTagName('ul')[0].parentNode.parentNode.nextSibling.nextSibling
+
+        //Remova todos os elementos filhos de paiDoPai exceto pai , elementoOndeVoceEsta e primeiroFilhoDoFilho .
+
+        let remove = document.querySelectorAll('#paiDoPai')[0].firstElementChild;
+        console.log(remove);
+        remove.removeChild(document.querySelectorAll('#primeiroFilho')[0]);
+        remove.removeChild(document.querySelectorAll('#terceiroFilho')[0]);
+        remove.removeChild(document.querySelectorAll('#quartoEUltimoFilho')[0]);
+
+        let remove2 = document.querySelectorAll('#elementoOndeVoceEsta')[0];
+        remove2.removeChild(document.querySelectorAll('#segundoEUltimoFilhoDoFilho')[0]);
+
+
+        
+    </script>
+  </div>

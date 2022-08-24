@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var mochila = [], mochila1 = [], mochila2 = [];
+
+        mochila1.push("Faca <br>");
+        mochila1.push("Corda <br>");
+        mochila1.push("Pederneira <br>");
+        mochila1.push("Chave <br>");
+        mochila1.push("Lanterna <br>");
+        mochila1.push("Pedra <br>");
+
+        mochila2.push("Arame <br>");
+        mochila2.push("Luvas <br>");
+        mochila2.push("Joelheiras <br>");
+        mochila2.push("Meias <br>");
+        mochila2.push("Moeda <br>");
+        mochila2.push("Canivete <br>");
+        
+        mochila = mochila1.concat(mochila2);//Pega os elementos da "mochila1" e junta com os elementos da "mochila2" na variavel "Mochila";
+
+        document.write(mochila);
+        document.write(`Mochila tem ${mochila.length} elementos`);
+    </script>
+    
+</body>
+</html>

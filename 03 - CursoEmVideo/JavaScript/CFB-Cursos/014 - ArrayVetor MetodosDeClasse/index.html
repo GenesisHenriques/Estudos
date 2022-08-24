@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var mochila = [];
+
+        mochila.push("Faca");
+        mochila.push("Corda");
+        mochila.push("Pederneira");
+        mochila.push("Lanterna");
+        mochila.push("Chave"); // add no final do vetor
+        mochila.unshift("Pedra"); // add no inicio do vetor
+
+        mochila.pop(); // remove o ultimo elemento do array
+        mochila.shift(); // remove o primeiro elemento do array
+        mochila.splice(2,1); //remove elementos em qualquer lugar-- o "2" indica o começo, e o "1" indica a quantidade a ser deletada--no caso, vai ser deletado um elemento a partir do elemento "2".
+
+        document.write(mochila[0] + "<br>");
+        document.write(mochila[1] + "<br>");
+        document.write(mochila[2] + "<br>");
+        document.write(mochila[3] + "<br>");
+        document.write(mochila[4] + "<br>");
+        document.write(mochila[5] + "<br>");
+        
+    </script>
+    
+</body>
+
+
+
+
+
+
+
+
+</html>
+
+
+
+
+
+
+

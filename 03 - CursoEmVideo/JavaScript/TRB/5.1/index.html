@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h2 id="page-title">Título</h2>
+    <p class="a" id="paragraph">Dê uma cor para este parágrafo!</p>
+    <h4 id="subtitle">Subtítulo</h4>
+    <p class="a" id="second-paragraph">Segundo parágrafo!</p>
+
+    <script>
+      const paragraph = document.getElementById("paragraph");
+      paragraph.style.color = "red";
+
+      document.getElementById('page-title').innerText = "A volta dos que não foram.";
+      document.getElementById('second-paragraph').style.color = '#ffff00';
+      document.getElementById('subtitle').style.fontSize = '100px';
+      document.getElementsByClassName('a')[0].style.color = 'blue';
+      document.getElementsByTagName('h4').style.color = 'blue';
+        
+    </script>
+  </body>
+</html>

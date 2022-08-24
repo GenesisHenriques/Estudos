@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var mochila = [];
+        var num = [5,8,4,9,7,6,3,0,2,1];
+        var numeros;
+        
+        document.write(`${num} <br>`);
+        num.sort(); // Ordena os numeros de um vetor;
+        document.write(`${num} <br>`);
+        num.reverse(); // Reverte os elementos de um vetor
+        document.write(`${num} <br>`);
+        numeros = num.join();// Pega todos os elementos de um vetor, e os transforma em uma estring unia com todos os elementos.
+        document.write(`${numeros}<br>`);
+
+
+        mochila.push("Faca");
+        mochila.push("Corda");
+        mochila.push("Pederneira");
+        mochila.push("Lanterna");
+        mochila.push("Chave"); 
+        mochila.push("Pedra");
+
+        var escolha = prompt("Qual item você deseja procurar na mochila?");
+        var pos = mochila.indexOf(escolha); // Procura dentro do array o elemento("Lanterna") desejado, e me fala qual a posição. Caso não aja o elemento, ele retorna -1.
+
+        if (pos > 0){
+            document.write(`Existe o elemento ${escolha} dentro da mochila <br> Na posição ${pos}`);
+        } else {
+            document.write(`Não existe o elemento ${escolha} dentro da mochila <br>`)
+        }
+            
+    </script>
+    
+</body>
+
+
+
+
+
+
+
+
+</html>
+
+
+
+
+
+
+

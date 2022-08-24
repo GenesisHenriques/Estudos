@@ -1,0 +1,42 @@
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+
+ou 
+
+<meta charset=utf-8>
+
+Sempre começa e termina com <> = <doctype>  <html>  <div>   etc.
+
+estrutura basica do HTML
+
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Título da página</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    Aqui vai o código HTML que fará seu site aparecer.
+  </body>
+</html>
+
+
+META TEGS BASICAS 
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Título da Página</title>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <meta name="description" content="descrição da página">
+        <meta name="keywords" content="Palavras Chaves, Separadas, Por,Virgulas, Minha Pagina, Pagina 01">
+        <meta name="author" content="HomeHost">
+        <meta name="robots" content="index, follow">
+        <link rel=”canonical” href=”http://www.meusite.com.br/index.php” />
+    </head>
+
+    <body>
+
+    </body>
+
+</html>

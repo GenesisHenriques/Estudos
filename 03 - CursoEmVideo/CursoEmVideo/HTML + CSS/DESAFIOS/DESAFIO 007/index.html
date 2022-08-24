@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DESAFIO 007</title>
+    <style>
+             
+    </style>
+</head>
+<body>
+    <h1>Imagem Flexível</h1>
+    <p>Você está vendo uma imagem completa? Experimente ampliar o tamanho da sua janela para aproveitar a melhor experiência 👨🏼‍🦱</p>
+    <!--<img src="paisagem-g.png" alt="" srcset="paisagem-p.png 1000w, paisagem-m.png 3000w, paisagem-g.png 5000w">-->
+
+    <img srcset="paisagem-p.png 1000w, paisagem-m.png 3000w, paisagem-g.png 5000w"
+    sizes=" (max-width: 4999px) 100vw,
+    (min-width: 5000px) 800px"
+    src="paisagem-g.png">
+    
+    
+    
+</body>
+</html>

@@ -1,0 +1,16 @@
+body{
+    background: blue;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+} section {
+    background: white;
+    color: blue;
+    border-radius: 10px;
+    padding: 20px;
+    width: 400px;
+    margin: auto;
+    text-align: left;
+} select{
+    width: 400px;
+}

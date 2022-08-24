@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background: blue;
+    color: white;
+}
+section{
+    background: white;
+    color: blue;
+    padding: 20px;
+    width: 400px;
+    border-radius: 10px;
+    margin: auto;
+    text-align: left;
+}
+select#lista{
+    width: 400px;
+}

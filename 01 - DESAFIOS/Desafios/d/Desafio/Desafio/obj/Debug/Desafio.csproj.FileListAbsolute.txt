@@ -1,0 +1,13 @@
+C:\Users\dell\Desktop\d\Desafio\Desafio\bin\Debug\Desafio.exe.config
+C:\Users\dell\Desktop\d\Desafio\Desafio\bin\Debug\Desafio.exe
+C:\Users\dell\Desktop\d\Desafio\Desafio\bin\Debug\Desafio.pdb
+C:\Users\dell\Desktop\d\Desafio\Desafio\obj\Debug\Desafio.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\d\Desafio\Desafio\obj\Debug\Desafio.Form1.resources
+C:\Users\dell\Desktop\d\Desafio\Desafio\obj\Debug\Desafio.Properties.Resources.resources
+C:\Users\dell\Desktop\d\Desafio\Desafio\obj\Debug\Desafio.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\d\Desafio\Desafio\obj\Debug\Desafio.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\d\Desafio\Desafio\obj\Debug\Desafio.exe
+C:\Users\dell\Desktop\d\Desafio\Desafio\obj\Debug\Desafio.pdb
+C:\Users\dell\Desktop\d\Desafio\Desafio\obj\Debug\Desafio.addFuncionario.resources
+C:\Users\dell\Desktop\d\Desafio\Desafio\bin\Debug\AuE Soluções.mdf
+C:\Users\dell\Desktop\d\Desafio\Desafio\bin\Debug\AuE Soluções_log.ldf
